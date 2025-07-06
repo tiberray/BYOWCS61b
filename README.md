@@ -1,15 +1,17 @@
 # CS61B Project 3: Build Your Own World (BYOW)
-Overview
+Overview:
+
 This project, completed as part of UC Berkeley's CS61B (Data Structures) course, is an engine for generating and exploring pseudo-randomly generated 2D tile-based worlds. It involves the design and implementation of complex data structures and algorithms to create unique, explorable environments based on a given seed. Users can navigate these worlds, interact with elements, and save/load their progress.
 
-Features
+Features:
+
 Pseudo-random World Generation: Generates unique and diverse 2D tile-based worlds with distinct rooms, hallways, and outdoor spaces.
 
 Interactive Exploration: Allows users to navigate the generated world using keyboard inputs.
 
 Persistent Worlds: Implements functionality to save and load the state of a generated world, allowing users to continue their exploration.
 
-Heads-Up Display (HUD): Provides real-time information to the user, such as the type of tile currently under the mouse pointer.
+Heads-Up Display (HUD): Provides real-time information to the user, such as the amount of coins the user currently has. 
 
 How to Run:
 
