@@ -23,7 +23,16 @@ Execute the main class (e.g., byow.Core.Main):
 
 java byow.Core.Main
 
-This will launch the world generation engine. 
+This will launch the world generation engine.
+
+TO PLAY:
+
+W A S D to move, collect all 10 coins to win! 
+To Toggle Line of Sight: press "o" on your keyboard. 
+You can Hold down or press a movement button to move. 
+Quick save by Pressing Colon and then Q, (:q)
+Save to a slot by Pressing Colon and then a number 1-3 (EX: :2) 
+
 
 Relevance to Data Analysis
 While this project is implemented in Java and focuses on data structures and algorithms, the core principles and challenges addressed are highly analogous to those encountered in data analysis and data engineering:
