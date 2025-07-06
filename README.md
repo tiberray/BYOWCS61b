@@ -12,12 +12,9 @@ Persistent Worlds: Implements functionality to save and load the state of a gene
 Heads-Up Display (HUD): Provides real-time information to the user, such as the type of tile currently under the mouse pointer.
 
 How to Run
-Clone the Repository, 
+Clone the Repository, preferably into IntelliJ!
 
-Compile:
-Ensure you have Java Development Kit (JDK) installed. Navigate to the root directory of the project and compile the source files:
-
-javac -encoding utf8 @sources.txt
+Add the library under Project Structure, which is attached to this git repository. (BYOWLibrary)
 
 Run:
 Execute the main class (e.g., byow.Core.Main):
